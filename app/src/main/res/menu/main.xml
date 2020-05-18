@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MakeB"
+        android:title="Make a book" />
+    <item
+        android:id="@+id/bookingD"
+        android:title="Bookings-Date" />
+
+    <item
+        android:id="@+id/bookingsL"
+        android:title="Bookings-Licence" />
+
+</menu>
